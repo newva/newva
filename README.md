@@ -1,4 +1,4 @@
-### Code connects the word and program creates the future. 👋
+### Code connects the world and program creates the future. 👋
 ### 左列钟铭右谤书，人间随处有乘除。👋
 <!--
 **newva/newva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
